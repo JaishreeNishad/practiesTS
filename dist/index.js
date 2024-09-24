@@ -149,4 +149,17 @@
 //     jack : {age:22},
 // }
 //Pick<key, type>
+//Generics
+// const func =<T>(n:T): T =>{//any alphabet
+//     return n;
+// }
+// const ans = func(20)
+// const ans2 = func("20")
+// const ans3 = func(true)
+// const func =<T>(n:T): T =>{//any alphabet
+//     return n;
+// }
+// const ans = func(20)
+// const ans2 = func("20")
+// const ans3 = func(true)
 //# sourceMappingURL=index.js.map
